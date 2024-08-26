@@ -5,5 +5,5 @@
 # Tools 
 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,jquery,javascript,python,vscode, mongodb, nodejs, npm, " />
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,jquery,javascript,vscode, mongodb, nodejs, npm, " />
   </a>
