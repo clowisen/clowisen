@@ -3,7 +3,7 @@
 # Web Side 
 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,jquery,javascript,vscode,mongodb,typescript,nodejs,react, mern" />
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,jquery,javascript,vscode,mongodb,typescript,nodejs,react" />
   </a>
 
  # Other
